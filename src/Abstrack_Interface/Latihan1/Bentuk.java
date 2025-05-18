@@ -10,6 +10,7 @@ public abstract class Bentuk {
     }
 
     // method abstrak dari kelas abstrak bentuk
+    // method ini wajib di impelemntasikan di class subclassnya karna dia berbentuk abstrak
     public abstract double luas();
 
     public int getJari2(){
