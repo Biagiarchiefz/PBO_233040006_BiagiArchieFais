@@ -1,6 +1,6 @@
 package Abstrack_Interface;
 
-interface BisaTerbang {
+public interface BisaTerbang {
     void terbang();
 
 }

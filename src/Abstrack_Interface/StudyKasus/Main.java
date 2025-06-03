@@ -1,5 +1,7 @@
 package Abstrack_Interface.StudyKasus;
 
+
+//Kita punya beberapa alat musik seperti Gitar dan Drum. Semua alat musik harus punya cara untuk bermain (play) .
 public class Main {
     public static void main(String[] args) {
 

@@ -8,7 +8,6 @@ public abstract class Musik {
         System.out.println("ini adalah alat musik");
     }
 
-
-
+//    public abstract void Merdu();
 
 }
